@@ -1,4 +1,4 @@
-# juejin
+# 仿写掘金客户端
 
 项目使用create-react-app构建，使用到HTML、CSS、JavaScript、react-router等web前端技术
 
